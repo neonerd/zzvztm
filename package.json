@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "serve": "node esbuild.config.mjs --serve"
+  },
+  "devDependencies": {
+    "esbuild": "0.24.0",
+    "esbuild-plugin-copy": "^2.1.1",
+    "esbuild-serve": "^1.0.1"
+  }
+}
