@@ -10,7 +10,7 @@ async function serve () {
 			copy({
 				resolveFrom: 'cwd',
 				assets: {
-					from: ['src/static/*'],
+					from: ['src/static/**/*'],
 					to: ['dist'],
 				},
 				watch: true,
