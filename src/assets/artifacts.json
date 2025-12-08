@@ -1,23 +1,25 @@
 [
 	{
+		"id": "artifact-0",
 		"name": "vyšetrovacia správa o smrti Jana Masaryka",
 		"description": "stratená vyšetrovacia správa, ktorá objasňuje smrť Jana Masaryka a zatvára všetky slepé miesta. nikto nevie, ako k nej tvôj pradedo prišiel, ale opatroval ju až do svojej smrti.",
-		"attributes": [
+		"possibilities": [
 			{
 				"count": 2,
-				"attribute": "curiosity"
+				"possibility": "curiosity"
 			}
 		]
 	},
 	{
+		"id": "puk-petra-bondru",
 		"name": "puk petra bondru",
 		"description": "puk, ktorým Peter Bondra strelil víťazný gól na majstrovstvách sveta v ľadovom hokeji 2003 v Gotteburgu. do mesta ho doviezol X (zanietený zberateľ).",
-		"attributes": [
-
-		]
+		"possibilities": []
 	},
 	{
+		"id": "artifact-2",
 		"name": "klávesy vaša patejdla",
 		"description": "klávesy, na ktorých Vašo Patejdl napísal svoje najväčšie hity. po jeho smrti ich našiel jeho syn a rozhodol sa ich predať.",
+		"possibilities": []
 	}
 ]
